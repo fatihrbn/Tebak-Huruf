@@ -1,0 +1,13 @@
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.exe
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.deps.json
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.runtimeconfig.json
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.runtimeconfig.dev.json
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.dll
+C:\Users\LENOVO\Desktop\Tebak Huruf\bin\Debug\netcoreapp3.1\Tebak Huruf.pdb
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.csprojAssemblyReference.cache
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.dll
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.pdb
+C:\Users\LENOVO\Desktop\Tebak Huruf\obj\Debug\netcoreapp3.1\Tebak Huruf.genruntimeconfig.cache
